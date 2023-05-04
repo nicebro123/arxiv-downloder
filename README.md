@@ -23,8 +23,10 @@ The keywords in which the users are interested appears in the title of the paper
 The keywords conference appears in the comments of the committing paper. key_words_conference: 'ICLR', 'CVPR', 'ICML', 'ICCV'.
 
 
-Usage: download the paper of interest daily, to run:
+###  Usage: download the paper of interest daily, to run:
 
-### python3 main_arxiv.py
+ ```python
+python3 main_arxiv.py
 recent
 daily
+ ```
