@@ -9,7 +9,7 @@ user can choose to download the interesting papers daily, in past week, in certa
 If user choose to download the interesting papers daily, the mode must be 'daily', otherwise, the mode must be 'all'. query_mode: 'all', 'daily'.
 
 ### The root of the downloading:
-download_root_dir: e.g. '/Users/zhangzilong/Desktop/arxiv/' (Need to reset)
+download_root_dir: e.g. r'./' (Need to reset)
 
 ### The domain of the downloading:
 domain: Computer Vision and Pattern Recognition 'cs.CV/', Machine learning 'cs.LG/' default: CV.
