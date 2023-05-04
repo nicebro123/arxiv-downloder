@@ -1,4 +1,6 @@
 # arxiv-downloder
+### Declaration
+This project draws on https://github.com/zhangzilongc/Arxiv-paper-crawler-daily.
 ### Description:
 Customized personal paper downloading of the arxiv, the user can download papers they are interested in.
 
